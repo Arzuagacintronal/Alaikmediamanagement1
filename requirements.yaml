@@ -1,0 +1,14 @@
+packages:
+  "framer-motion": "For premium smooth scroll and reveal animations"
+  "react-hook-form": "For contact form state management"
+  "@hookform/resolvers": "Zod resolver for contact form"
+  "zod": "Schema validation for contact form"
+
+images:
+  - path: "artifacts/alaik-media/public/images/hero-bg.png"
+    description: "Abstract luxury dark background with subtle glowing gold accents and soft light leaks, premium corporate agency feel, minimalist, 8k resolution"
+    aspect_ratio: "16:9"
+
+notes:
+  - The site is a purely static SPA landing page as requested, no backend hooks are utilized.
+  - The contact form submission is simulated with a toast notification.
